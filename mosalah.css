@@ -1,0 +1,48 @@
+
+
+img { 
+    display: block; 
+    margin: 0 auto;
+} 
+.image{
+    background-color: rgb(255, 255, 255);
+    margin-left: -370px;
+    margin-right: -370px;
+}
+body {
+    background-color: rgb(182, 205, 211);
+  }
+  
+ .jj {
+    font-style: oblique;
+    text-align: center;
+    font-size: 25px;
+ }
+ .ktaba {
+    font-size: 20px;
+ }
+ .title {
+    font-size: 20px;
+ }
+ .lol{
+     margin: auto;
+     width: 60%;
+
+ }
+ .title11 {
+     text-align: center;
+ } 
+ 
+ .title2 {
+    text-align: center;
+ }
+
+ .salah {
+     text-align: center;
+ }
+  
+ .wiki {
+
+    text-align: center;
+ }
+ 
